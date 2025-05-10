@@ -1,0 +1,3 @@
+Use conroller.py in main folder to genrate data using rule-based input.
+Replace orignal controller.py and bot.py with those in Extras folder to generate data using human gameplays.
+Merge all data in a single csv file for model training.
